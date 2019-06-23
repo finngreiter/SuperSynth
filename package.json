@@ -1,0 +1,24 @@
+{
+  "name": "supersynth",
+  "version": "1.0.0",
+  "description": "A super awesome synth for making music.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finngreiter/SuperSynth.git"
+  },
+  "author": "Finn Grieter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finngreiter/SuperSynth/issues"
+  },
+  "homepage": "https://github.com/finngreiter/SuperSynth#readme",
+  "devDependencies": {
+    "electron": "^5.0.5"
+  },
+  "dependencies": {}
+}
